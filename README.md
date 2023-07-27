@@ -1,5 +1,5 @@
 # GPUniceTron
-GPU加速的波场靓号生成 &amp; 波场地址生成 &amp;波场地址自定义尾号&amp; tron靓号生成 &amp; tron地址生成 &amp; 地址离线生成 &amp; 靓号离线生成&amp;TRX靓号生成,联系 @qqjr888
+GPU加速的波场靓号生成 &amp; 波场地址生成 &amp;波场地址自定义尾号&amp; tron靓号生成 &amp; tron地址生成 &amp; 地址离线生成 &amp; 靓号离线生成&amp;TRX靓号生成,联系 [@qqjr888](https://t.me/qqjr888)
 
 2023-04-18 已支持笔记本电脑独立显卡运行，适配过的显卡有RTX4090、RTX4060、RTX3070、RTX2080\2060、RTX1660\1650
 2023-04-21 已支持亚马逊云、阿里云、腾讯云GPU主机，支持 windowsserver2022 数据中心（DCH）操作系统，需自行安装英伟达驱动。支持多GPU卡，程序已适配显卡型号：V100、A100
